@@ -1,0 +1,5 @@
+__py*__/
+.venv/
+cookbook/
+misc/
+test.db
