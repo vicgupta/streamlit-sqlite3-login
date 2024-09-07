@@ -5,5 +5,4 @@ beautifulsoup4
 requests
 duckduckgo-search
 streamlit
-pocketbase
-edge_tts
+#pocketbase
